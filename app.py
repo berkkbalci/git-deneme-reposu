@@ -1,2 +1,2 @@
 def karsilama():
-    print("Merhaba Dünya")
+    print("Merhaba motive")
